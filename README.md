@@ -5,3 +5,4 @@ pkg update && pkg upgrade
 pkg install python ffmpeg  # for video if needed
 pip install requests beautifulsoup4 lxml
 
+python3 x_nsfw_scraper.py
